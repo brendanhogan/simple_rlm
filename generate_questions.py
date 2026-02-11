@@ -87,14 +87,21 @@ for i, chunk in enumerate(sampled):
 
     raw = response.choices[0].message.content.strip()
 
-    # Parse the JSON response
+    # Parse the JSON response and shuffle choices so the correct answer
+    # isn't always in the same position (LLMs love putting it at A)
     try:
         q = json.loads(raw)
-        q["source_chunk_preview"] = chunk[:200]  # keep a snippet for reference
+        correct_text = q["choices"][q["correct"]]
+        items = list(q["choices"].values())
+        random.shuffle(items)
+        labels = ["A", "B", "C", "D"]
+        q["choices"] = {l: v for l, v in zip(labels, items)}
+        q["correct"] = labels[items.index(correct_text)]
+        q["source_chunk_preview"] = chunk[:200]
         q["chunk_index"] = i
         questions.append(q)
-        print(f"OK  ->  {q['question'][:60]}...")
-    except json.JSONDecodeError:
+        print(f"OK [{q['correct']}]  ->  {q['question'][:60]}...")
+    except (json.JSONDecodeError, KeyError):
         print(f"SKIP (bad JSON)")
         continue
 

@@ -2,12 +2,12 @@
   {
     "question": "How many significant bipartisan bills supporting veterans has the administration signed since taking office?",
     "choices": {
-      "A": "30",
+      "A": "20",
       "B": "50",
-      "C": "20",
-      "D": "10"
+      "C": "10",
+      "D": "30"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": "The excerpt states that the administration has signed over 30 significant bipartisan bills to support veterans.",
     "source_chunk_preview": "7 ---\nBUDGeT OF THe U. S. GOVeRNMeNT FOR FISCAL YeAR 2025 3\nwhich would make urgent additional investments to secure the border and help to fix our broken\nimmigration system.\nToday, the world is facin",
     "chunk_index": 0
@@ -15,12 +15,12 @@
   {
     "question": "How much has the Administration lowered Federal Housing Administration annual mortgage insurance premiums by?",
     "choices": {
-      "A": "One-third",
-      "B": "One-half",
-      "C": "One-quarter",
-      "D": "Two-thirds"
+      "A": "Two-thirds",
+      "B": "One-quarter",
+      "C": "One-third",
+      "D": "One-half"
     },
-    "correct": "A",
+    "correct": "C",
     "explanation": "The text states that the Administration lowered Federal Housing Administration annual mortgage insurance premiums by about one-third.",
     "source_chunk_preview": "11 ---\nBUDGeT OF THe U. S. GOVeRNMeNT FOR FISCAL YeAR 2025 7\nLowering Housing Costs consumers more than $5 billion a year compared\nto pre-COVID-19 pandemic. The Federal Trade\nThe President and Vice Pr",
     "chunk_index": 1
@@ -28,12 +28,12 @@
   {
     "question": "What is the estimated number of new clean energy jobs created as a result of the Inflation Reduction Act?",
     "choices": {
-      "A": "210,000",
-      "B": "150,000",
+      "A": "150,000",
+      "B": "100,000",
       "C": "300,000",
-      "D": "100,000"
+      "D": "210,000"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": "The text states that the Inflation Reduction Act resulted in 210,000 new clean energy jobs created.",
     "source_chunk_preview": "17 ---\nBUDGeT OF THe U. S. GOVeRNMeNT FOR FISCAL YeAR 2025 13\nMeeting the economic, social, and emotional every sector of the economy, protecting more than\nneeds of America\u2019s military and veteran fami",
     "chunk_index": 2
@@ -41,12 +41,12 @@
   {
     "question": "How much funding does the Budget include to support the ongoing implementation of the White House Blueprint for Addressing the Maternal Health Crisis in Fiscal Year 2025?",
     "choices": {
-      "A": "$376 million",
-      "B": "$190 million",
-      "C": "$82 million",
+      "A": "$190 million",
+      "B": "$82 million",
+      "C": "$376 million",
       "D": "$500 million"
     },
-    "correct": "A",
+    "correct": "C",
     "explanation": "$376 million is the specific amount mentioned in the excerpt for supporting the ongoing implementation of the White House Blueprint for Addressing the Maternal Health Crisis.",
     "source_chunk_preview": "25 ---\nBUDGeT OF THe U. S. GOVeRNMeNT FOR FISCAL YeAR 2025 21\nhealth needs, and strengthening America\u2019s public Planning program to increase the number of pa-\nhealth infrastructure. tients served to 3.",
     "chunk_index": 3
@@ -54,12 +54,12 @@
   {
     "question": "What is the total amount provided in the Budget for the Environmental Protection Agency's State Revolving Funds for drinking water and wastewater infrastructure in Fiscal Year 2025?",
     "choices": {
-      "A": "$2.4 billion",
-      "B": "$350 million",
-      "C": "$101 million",
-      "D": "$15 billion"
+      "A": "$350 million",
+      "B": "$101 million",
+      "C": "$15 billion",
+      "D": "$2.4 billion"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": "The correct answer is $2.4 billion, which is the total amount specified for the EPA's State Revolving Funds for drinking water and wastewater infrastructure.",
     "source_chunk_preview": "29 ---\nBUDGeT OF THe U. S. GOVeRNMeNT FOR FISCAL YeAR 2025 25\npipes, the Budget provides a total of $101 million key tax cuts benefitting lower- and middle-income\nto two environmental Protection Agenc",
     "chunk_index": 4
@@ -67,12 +67,12 @@
   {
     "question": "How much funding does the Budget provide to support the Environmental Protection Agency's Office of Air and Radiation for fiscal year 2025?",
     "choices": {
-      "A": "$1.5 billion",
-      "B": "$690 million",
+      "A": "$690 million",
+      "B": "$100 million",
       "C": "$8 billion",
-      "D": "$100 million"
+      "D": "$1.5 billion"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": "The text states that the Budget provides a total of $1.5 billion for the EPA's Office of Air and Radiation.",
     "source_chunk_preview": "34 ---\n30 INVeSTING IN AMeRICA AND THe AMeRICAN PeOPLe\nhousing programs that include construction, such Reduces Health and Environmental\nas housing repair loans and grants. Hazards for At-Risk Communi",
     "chunk_index": 5
@@ -80,12 +80,12 @@
   {
     "question": "What is the budget request for discretionary resources in 2025 for IHS?",
     "choices": {
-      "A": "$8 billion",
+      "A": "$1.1 billion",
       "B": "$145 million",
-      "C": "$1.1 billion",
+      "C": "$8 billion",
       "D": "$34 million"
     },
-    "correct": "A",
+    "correct": "C",
     "explanation": "The text specifies that the Budget requests $8 billion in discretionary resources in 2025 for IHS, making this the correct answer.",
     "source_chunk_preview": "40 ---\n36 INVeSTING IN AMeRICA AND THe AMeRICAN PeOPLe\nthreshold for the Basic Needs Allowance from requirements with dedicated funding. Budget\n150 percent to 200 percent of the Federal Poverty resour",
     "chunk_index": 6
@@ -93,12 +93,12 @@
   {
     "question": "What amount is included in the emergency supplemental request for support to Ukraine?",
     "choices": {
-      "A": "$61.4 billion",
-      "B": "$32 billion",
-      "C": "$58 billion",
-      "D": "$10 billion"
+      "A": "$32 billion",
+      "B": "$10 billion",
+      "C": "$61.4 billion",
+      "D": "$58 billion"
     },
-    "correct": "A",
+    "correct": "C",
     "explanation": "$61.4 billion is specifically stated in the excerpt as the amount requested to support Ukraine in its defense against Russian aggression.",
     "source_chunk_preview": "45 ---\nBUDGeT OF THe U. S. GOVeRNMeNT FOR FISCAL YeAR 2025 41\nimmigration judge teams to help reduce the im- Russian aggression. The Budget includes a\nmigration case backlog. new capital increase to t",
     "chunk_index": 7
@@ -107,8 +107,8 @@
     "question": "What is the additional funding amount included in the Budget for the Technology Modernization Fund (TMF)?",
     "choices": {
       "A": "$75 million",
-      "B": "$500 million",
-      "C": "$750 million",
+      "B": "$750 million",
+      "C": "$500 million",
       "D": "$1 billion"
     },
     "correct": "A",
@@ -119,12 +119,12 @@
   {
     "question": "What is the requested discretionary budget authority for the U.S. Department of Agriculture in 2025?",
     "choices": {
-      "A": "$29.2 billion",
-      "B": "$27.2 billion",
-      "C": "$31.2 billion",
-      "D": "$30.0 billion"
+      "A": "$31.2 billion",
+      "B": "$30.0 billion",
+      "C": "$29.2 billion",
+      "D": "$27.2 billion"
     },
-    "correct": "A",
+    "correct": "C",
     "explanation": "The excerpt states that the Budget requests $29.2 billion in discretionary budget authority for 2025.",
     "source_chunk_preview": "59 ---\nDEPARTMENT OF AGRICULTURE\nThe U.S. Department of Agriculture (USDA) is responsible for providing nutrition assistance to\nlow-income Americans and a safety net for the farm sector, conserving an",
     "chunk_index": 9
@@ -132,12 +132,12 @@
   {
     "question": "What is the funding amount provided for the Census Bureau in the Fiscal Year 2025 budget?",
     "choices": {
-      "A": "$1.6 billion",
+      "A": "$223 million",
       "B": "$138.5 million",
-      "C": "$223 million",
-      "D": "$93 million"
+      "C": "$93 million",
+      "D": "$1.6 billion"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": "The correct answer is $1.6 billion, which is explicitly stated in the excerpt as the amount allocated for the Census Bureau.",
     "source_chunk_preview": "67 ---\nBUDGeT OF THe U. S. GOVeRNMeNT FOR FISCAL YeAR 2025 63\nand abundant wild salmon, steelhead, and other native fish populations to the Columbia River\nBasin, and honor the United States\u2019 obligatio",
     "chunk_index": 10
@@ -145,12 +145,12 @@
   {
     "question": "What is the total budget allocation for mental health programs in the Fiscal Year 2025 budget?",
     "choices": {
-      "A": "$216 million",
-      "B": "$2.1 billion",
-      "C": "$200 million",
-      "D": "$90 million"
+      "A": "$90 million",
+      "B": "$200 million",
+      "C": "$2.1 billion",
+      "D": "$216 million"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": "The correct answer is $216 million, which is the total provided for mental health programs as stated in the excerpt.",
     "source_chunk_preview": "74 ---\n70 DePARTMeNT OF eDUCATION\nproposal would be administered by the Department of Health and Human Services in col-\nlaboration with eD. The Budget also includes $25 million for incentive demonstra",
     "chunk_index": 11
@@ -158,12 +158,12 @@
   {
     "question": "What program is responsible for the safe and reliable operation of reactor plants in nuclear-powered submarines and aircraft carriers?",
     "choices": {
-      "A": "Naval Nuclear Propulsion Program",
+      "A": "Aircraft Carrier Technology Program",
       "B": "Nuclear Energy Innovation Program",
-      "C": "Submarine Safety Initiative",
-      "D": "Aircraft Carrier Technology Program"
+      "C": "Naval Nuclear Propulsion Program",
+      "D": "Submarine Safety Initiative"
     },
-    "correct": "A",
+    "correct": "C",
     "explanation": "The Naval Nuclear Propulsion Program is specifically mentioned in the excerpt as the program that ensures the safe and reliable operation of reactor plants in nuclear-powered submarines and aircraft carriers.",
     "source_chunk_preview": "80 ---\n76 DePARTMeNT OF eNeRGY\n\u2022 Powers the Nuclear Navy. DOe\u2019s Naval Nuclear Propulsion Program ensures safe and\nreliable operation of reactor plants in nuclear-powered submarines and aircraft carrie",
     "chunk_index": 12
@@ -171,12 +171,12 @@
   {
     "question": "What is the proposed budget amount for the Title X Family Planning program in Fiscal Year 2025?",
     "choices": {
-      "A": "$390 million",
-      "B": "$544 million",
-      "C": "$8.5 billion",
-      "D": "$4.1 billion"
+      "A": "$8.5 billion",
+      "B": "$4.1 billion",
+      "C": "$544 million",
+      "D": "$390 million"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": "The excerpt states that the Budget includes $390 million for the Title X Family Planning program, which is a specific fact that can be directly answered from the text.",
     "source_chunk_preview": "83 ---\nBUDGeT OF THe U. S. GOVeRNMeNT FOR FISCAL YeAR 2025 79\nThis investment could help hundreds of thousands of women with young children enter or re-\nenter the workforce more quickly. The President",
     "chunk_index": 13
@@ -186,8 +186,8 @@
     "choices": {
       "A": "$3.2 billion",
       "B": "$4.4 billion",
-      "C": "$1 billion",
-      "D": "$531 million"
+      "C": "$531 million",
+      "D": "$1 billion"
     },
     "correct": "A",
     "explanation": "The budget proposes $3.2 billion for FEMA grants that support jurisdictions to prevent, protect against, mitigate, respond to, and recover from terrorism and natural disasters.",
@@ -197,12 +197,12 @@
   {
     "question": "How much funding does the Budget provide to support tribal efforts to expand affordable housing for Fiscal Year 2025?",
     "choices": {
-      "A": "$1.1 billion",
-      "B": "$150 million",
+      "A": "$5 million",
+      "B": "$1.1 billion",
       "C": "$33 million",
-      "D": "$5 million"
+      "D": "$150 million"
     },
-    "correct": "A",
+    "correct": "B",
     "explanation": "The correct answer is $1.1 billion, as stated in the excerpt, which details the total funding allocated for supporting affordable housing in tribal communities.",
     "source_chunk_preview": "96 ---\n92 DePARTMeNT OF HOUSING AND URBAN DeVeLOPMeNT\n\u2022 Invests in Affordable Housing in Tribal Communities. Native Americans are seven\ntimes more likely to live in overcrowded conditions and five tim",
     "chunk_index": 15
@@ -210,12 +210,12 @@
   {
     "question": "How much funding does the Budget include for endangered Species Act environmental planning and consultation in Fiscal Year 2025?",
     "choices": {
-      "A": "$200 million",
-      "B": "$250 million",
+      "A": "$250 million",
+      "B": "$100 million",
       "C": "$150 million",
-      "D": "$100 million"
+      "D": "$200 million"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": "The excerpt states that the Budget includes nearly $200 million for endangered Species Act environmental planning and consultation.",
     "source_chunk_preview": "100 ---\n96 DePARTMeNT OF THe INTeRIOR\nrecreation opportunities in economically disadvantaged urban communities, which advances\nthe Justice40 Initiative.\n\u2022 Strengthens and Streamlines Permitting Activi",
     "chunk_index": 16
@@ -223,12 +223,12 @@
   {
     "question": "What is the amount allocated for the mandatory Career Training Fund in the Fiscal Year 2025 budget?",
     "choices": {
-      "A": "$8 billion",
-      "B": "$50 million",
-      "C": "$1 billion",
-      "D": "$5 billion"
+      "A": "$50 million",
+      "B": "$5 billion",
+      "C": "$8 billion",
+      "D": "$1 billion"
     },
-    "correct": "A",
+    "correct": "C",
     "explanation": "The correct answer is $8 billion, which is specified in the text as the amount allocated for the mandatory Career Training Fund.",
     "source_chunk_preview": "106 ---\n102 DePARTMeNT OF LABOR\nSecurity Administration to ensure that all workers can take up to 12 weeks of leave to bond\nwith a new child; care for a seriously ill loved one; heal from their own se",
     "chunk_index": 17
@@ -236,12 +236,12 @@
   {
     "question": "What is the amount requested in the Budget for America\u2019s national security workforce for Fiscal Year 2025?",
     "choices": {
-      "A": "$8 billion",
-      "B": "$3 billion",
-      "C": "$800 million",
-      "D": "$20 million"
+      "A": "$20 million",
+      "B": "$800 million",
+      "C": "$3 billion",
+      "D": "$8 billion"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": "The Budget requests more than $8 billion for America\u2019s national security workforce, as stated in the excerpt.",
     "source_chunk_preview": "112 ---\n108 DePARTMeNT OF STATe AND OTHeR INTeRNATIONAL PROGRAMS\nSecurity Support to address insecurity and create the necessary conditions for long-term sta-\nbility and growth.\n\u2022 Invests in America\u2019s",
     "chunk_index": 18
@@ -263,9 +263,9 @@
     "question": "What is the amount allocated for Florida's Everglades restoration program in the Fiscal Year 2025 budget?",
     "choices": {
       "A": "$444 million",
-      "B": "$195 million",
-      "C": "$145 million",
-      "D": "$79 million"
+      "B": "$145 million",
+      "C": "$79 million",
+      "D": "$195 million"
     },
     "correct": "A",
     "explanation": "The text specifically states that the Budget includes $444 million for Florida\u2019s Everglades restoration program.",
@@ -276,9 +276,9 @@
     "question": "What is the requested budget authority for the Small Business Administration (SBA) in the President's 2025 Budget?",
     "choices": {
       "A": "$971 million",
-      "B": "$58 billion",
+      "B": "$7 billion",
       "C": "$20 million",
-      "D": "$7 billion"
+      "D": "$58 billion"
     },
     "correct": "A",
     "explanation": "The requested budget authority for the Small Business Administration (SBA) in the President's 2025 Budget is explicitly stated as $971 million.",
@@ -288,12 +288,12 @@
   {
     "question": "What is the projected total outlays for the U.S. Federal Budget in Fiscal Year 2025?",
     "choices": {
-      "A": "7,266 billion dollars",
-      "B": "6,941 billion dollars",
+      "A": "6,941 billion dollars",
+      "B": "8,083 billion dollars",
       "C": "5,485 billion dollars",
-      "D": "8,083 billion dollars"
+      "D": "7,266 billion dollars"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": "The projected total outlays for Fiscal Year 2025 are specifically stated as 7,266 billion dollars in the budget document.",
     "source_chunk_preview": "141 ---\nBUDGeT\nOF\nTHe\nU.\nS.\nGOVeRNMeNT\nFOR\nFISCAL\nYeAR\n2025\n137\nTable S\u20131. Budget Totals\n(In billions of dollars and as a percent of GDP)\nTotals\n2025\u2013 2025\u2013\n2023 2024 2025 2026 2027 2028 2029 2030 203",
     "chunk_index": 22
@@ -301,12 +301,12 @@
   {
     "question": "What is the proposed outlay for Defense discretionary programs in Fiscal Year 2025?",
     "choices": {
-      "A": "900 billion dollars",
-      "B": "884 billion dollars",
-      "C": "806 billion dollars",
-      "D": "1,029 billion dollars"
+      "A": "806 billion dollars",
+      "B": "1,029 billion dollars",
+      "C": "900 billion dollars",
+      "D": "884 billion dollars"
     },
-    "correct": "A",
+    "correct": "C",
     "explanation": "The excerpt states that the proposed outlay for Defense discretionary programs in Fiscal Year 2025 is 900 billion dollars.",
     "source_chunk_preview": "145 ---\nBUDGeT\nOF\nTHe\nU.\nS.\nGOVeRNMeNT\nFOR\nFISCAL\nYeAR\n2025\n141\nTable S\u20134. Proposed Budget by Category\n(In billions of dollars)\nTotals\n2025\u2013 2025\u2013\n2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 203",
     "chunk_index": 23
@@ -314,12 +314,12 @@
   {
     "question": "What is the proposed funding amount for the National Health Service Corps (NHSC) program in Fiscal Year 2025?",
     "choices": {
-      "A": "553 million dollars",
-      "B": "730 million dollars",
-      "C": "144 million dollars",
+      "A": "144 million dollars",
+      "B": "553 million dollars",
+      "C": "730 million dollars",
       "D": "2,210 million dollars"
     },
-    "correct": "A",
+    "correct": "B",
     "explanation": "The correct answer is 553 million dollars, as stated in the excerpt under the National Health Service Corps (NHSC) program for the year 2025.",
     "source_chunk_preview": "153 ---\nBUDGeT\nOF\nTHe\nU.\nS.\nGOVeRNMeNT\nFOR\nFISCAL\nYeAR\n2025\n149\nTable S\u20136. Mandatory and Receipt Proposals\u2014Continued\n(In millions of dollars)\nTotals\n2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2",
     "chunk_index": 24
@@ -327,12 +327,12 @@
   {
     "question": "What is the proposed funding for the measure development funding for the Quality Payment Program (QPP) in fiscal year 2025?",
     "choices": {
-      "A": "10 million dollars",
-      "B": "50 million dollars",
-      "C": "150 million dollars",
-      "D": "125 million dollars"
+      "A": "50 million dollars",
+      "B": "125 million dollars",
+      "C": "10 million dollars",
+      "D": "150 million dollars"
     },
-    "correct": "A",
+    "correct": "C",
     "explanation": "This is correct because the excerpt specifically states that the measure development funding for QPP is set at 10 million dollars for the year 2025.",
     "source_chunk_preview": "156 ---\n152\nSUMMARY\nTABLeS\nTable S\u20136. Mandatory and Receipt Proposals\u2014Continued\n(In millions of dollars)\nTotals\n2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2025\u20132029 2025\u20132034\nProhibit CHIP",
     "chunk_index": 25
@@ -340,12 +340,12 @@
   {
     "question": "What is the proposed repeal amount for percentage depletion with respect to oil and natural gas wells in Fiscal Year 2025?",
     "choices": {
-      "A": "-1,476 million dollars",
-      "B": "-880 million dollars",
-      "C": "-3,123 million dollars",
-      "D": "-65 million dollars"
+      "A": "-65 million dollars",
+      "B": "-3,123 million dollars",
+      "C": "-880 million dollars",
+      "D": "-1,476 million dollars"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": "This is correct because the excerpt specifically states that the repeal of percentage depletion with respect to oil and natural gas wells amounts to -1,476 million dollars for the year 2025.",
     "source_chunk_preview": "164 ---\n160\nSUMMARY\nTABLeS\nTable S\u20136. Mandatory and Receipt Proposals\u2014Continued\n(In millions of dollars)\nTotals\n2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2025\u20132029 2025\u20132034\nRepeal the de",
     "chunk_index": 26
@@ -353,12 +353,12 @@
   {
     "question": "What is the total outlay effect of receipt proposals for the years 2025 to 2029 according to the budget document?",
     "choices": {
-      "A": "4,835 million dollars",
-      "B": "2,163 million dollars",
-      "C": "1,072 million dollars",
-      "D": "1,266 million dollars"
+      "A": "2,163 million dollars",
+      "B": "1,266 million dollars",
+      "C": "4,835 million dollars",
+      "D": "1,072 million dollars"
     },
-    "correct": "A",
+    "correct": "C",
     "explanation": "The total outlay effect of receipt proposals for the years 2025 to 2029 is 4,835 million dollars as stated in the excerpt.",
     "source_chunk_preview": "170 ---\n166\nSUMMARY\nTABLeS\nTable S\u20136. Mandatory and Receipt Proposals\u2014Continued\n(In millions of dollars)\nTotals\n2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2025\u20132029 2025\u20132034\nIncrease the ",
     "chunk_index": 27
@@ -366,12 +366,12 @@
   {
     "question": "What is the total amount of Discretionary Budget Authority requested for the U.S. Federal Budget in Fiscal Year 2025?",
     "choices": {
-      "A": "1,670.7 billion dollars",
+      "A": "1,629.1 billion dollars",
       "B": "1,750.3 billion dollars",
-      "C": "1,780.3 billion dollars",
-      "D": "1,629.1 billion dollars"
+      "C": "1,670.7 billion dollars",
+      "D": "1,780.3 billion dollars"
     },
-    "correct": "A",
+    "correct": "C",
     "explanation": "The total discretionary Budget Authority for Fiscal Year 2025 is stated as 1,670.7 billion dollars.",
     "source_chunk_preview": "175 ---\nBUDGeT\nOF\nTHe\nU.\nS.\nGOVeRNMeNT\nFOR\nFISCAL\nYeAR\n2025\n171\nTable S\u20138. 2025 Discretionary Request by Major Agency\u2014Continued\n(Budget authority in billions of dollars)\n2025 Request Less\n2023 Actual\n",
     "chunk_index": 28
